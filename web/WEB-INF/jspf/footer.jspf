@@ -1,0 +1,16 @@
+      <footer>
+        <p>&copy; Robert Naessens, 4th Year CS&IT Student, National University of Ireland, Galway. 2015</p>
+      </footer>
+
+    </div><!--/.container-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  
+    <script src="js/offcanvas.js"></script>
+  </body>
+</html>
